@@ -7,6 +7,7 @@ func Hello() string {
 	return quote.HelloV3()
 }
 
+// Print Concurrency string
 func Proverb() string {
 	return quote.Concurrency()
 }
